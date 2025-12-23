@@ -89,10 +89,10 @@ pip install requests beautifulsoup4 pandas numpy matplotlib seaborn wordcloud sc
 
 Some visualizations generated during the analysis include:
 
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/histogram.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/Rating.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/full%20reviewpng.png)
-![alt text](https://github.com/27abhishek27/British-Airways-Job-Simulation/blob/main/British_Airways_Task1_png/recommended.png)
+![alt text](https://github.com/isandeep06/British-Airways-Data-Science/blob/main/British_Airways_Task1_png/histogram.png)
+![alt text](https://github.com/isandeep06/British-Airways-Data-Science/blob/main/British_Airways_Task1_png/Rating.png)
+![alt text](https://github.com/isandeep06/British-Airways-Data-Science/blob/main/British_Airways_Task1_png/full%20reviewpng.png)
+![alt text](https://github.com/isandeep06/British-Airways-Data-Science/blob/main/British_Airways_Task1_png/recommended.png)
 
 *(Presentations contain detailed visuals.)*
 
@@ -107,6 +107,7 @@ Some visualizations generated during the analysis include:
 
 ## 📌 Future Improvements
 
-- **Sentiment Modeling**: Build machine learning models to predict customer satisfaction.
+- **Sentiment Modelling**: Build machine learning models to predict customer satisfaction.
 - **Dynamic Scraping**: Use Selenium or Playwright to scrape dynamically loaded content.
 - **Dashboarding**: Develop interactive dashboards using Tableau, Power BI, or Plotly Dash for management reporting.
+##View my Certificate:![alt text](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
