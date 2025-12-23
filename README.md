@@ -111,7 +111,7 @@ Some visualizations generated during the analysis include:
 - **Dynamic Scraping**: Use Selenium or Playwright to scrape dynamically loaded content.
 - **Dashboarding**: Develop interactive dashboards using Tableau, Power BI, or Plotly Dash for management reporting.
   
-### Check My Certificate:
+### Check out My Certificate:
 
 ```bash
  https://www.theforage.com/simulations/british-airways/data-science-yqoz
