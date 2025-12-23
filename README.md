@@ -110,4 +110,9 @@ Some visualizations generated during the analysis include:
 - **Sentiment Modelling**: Build machine learning models to predict customer satisfaction.
 - **Dynamic Scraping**: Use Selenium or Playwright to scrape dynamically loaded content.
 - **Dashboarding**: Develop interactive dashboards using Tableau, Power BI, or Plotly Dash for management reporting.
-##View my Certificate:![alt text](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
+  
+### Check My Certificate:
+
+```bash
+ https://www.theforage.com/simulations/british-airways/data-science-yqoz
+```
